@@ -150,7 +150,8 @@ Loan-Default-Risk-Analysis/
 
 ### 1. Executive Overview
 
-![Executive Overview](Screenshots/01_Overview.png)
+<img width="986" height="564" alt="01_Overview" src="https://github.com/user-attachments/assets/8265f39c-9ed3-44aa-ad9f-a15f29f54dcd" />
+
 
 **What this page shows:** a high-level health check of the whole portfolio. Five KPI cards sit on top, followed by yearly trends, the default vs non-default split, loan value by purpose, and default rate by credit-risk type.
 
@@ -177,8 +178,9 @@ Loan-Default-Risk-Analysis/
 ---
 
 ### 2. Risk Analysis
+<img width="986" height="568" alt="02_Risk_Analysis" src="https://github.com/user-attachments/assets/24a28bd3-4120-4c9f-a6f3-5059b94ccf1a" />
 
-![Risk Analysis](Screenshots/02_Risk_Analysis.png)
+
 
 **What this page shows:** how default rate changes with employment type, loan purpose, age and DTI, plus the size of each credit-score segment.
 
@@ -203,8 +205,9 @@ Loan-Default-Risk-Analysis/
 ---
 
 ### 3. Customer Analysis
+<img width="988" height="568" alt="03_Customer_Analysis" src="https://github.com/user-attachments/assets/42cbd5f3-8786-4fdf-ac3a-9c5ec22abff2" />
 
-![Customer Analysis](Screenshots/03_Customer_Analysis.png)
+
 
 **What this page shows:** who the borrowers are and how default rate varies by income, marital status and mortgage status.
 
@@ -232,7 +235,8 @@ Loan-Default-Risk-Analysis/
 
 ### 4. Financial Analysis
 
-![Financial Analysis](Screenshots/04_Financial_Analysis.png)
+<img width="992" height="568" alt="04_Financial_Analysis" src="https://github.com/user-attachments/assets/af4f8c99-fc8a-44d6-9813-67d94f26e20e" />
+
 
 **What this page shows:** the money side of the portfolio: loan size, interest rates and value over time.
 
@@ -259,7 +263,8 @@ Loan-Default-Risk-Analysis/
 
 ### 5. Default Prediction
 
-![Default Prediction](Screenshots/05_Default_Prediction.png)
+<img width="994" height="572" alt="05_Default_Prediction" src="https://github.com/user-attachments/assets/f52117dd-86f7-4ace-814b-625894a43e17" />
+
 
 **What this page shows:** a risk-scoring view that combines the strongest drivers into one place, with a segment table ranked by risk level.
 
